@@ -57,3 +57,6 @@
 - モデル運用管理  (再学習、際デプロイ)
 
 ## 3. 業務アプリケーションとの連携
+Power BI や Microsoft Teams と連携して、より効率的に日々の開発できる環境を作成します。
+- レポートの作成
+- Azure DevOps、Power BI の Teams 連携
