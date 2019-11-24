@@ -55,6 +55,7 @@
     - Azure Machine Learning
     - Azure Kubernetes Service
 - マニュアル操作で学習済みの状態空間モデルをデプロイする。また、テストデータに対して推論を実行する
+- Notebook : [SSM-local-trend-azureml.ipynb](notebook/SSM-local-trend-azureml.ipynb)
 
 
 ## Module 2 : データの運用管理
@@ -71,6 +72,8 @@
     - Azure Machine Learning
     - Azure DevOps
 - 機械学習モデルの再学習と再デプロイが自動で出来るようにパイプラインを構築します。
+- 参考ドキュメント
+    - [MLOps:Azure Machine Learning でモデルを管理、デプロイ、および監視する](https://docs.microsoft.com/ja-JP/azure/machine-learning/service/concept-model-management-and-deployment)
 
 
 
